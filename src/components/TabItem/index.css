@@ -1,0 +1,25 @@
+.tab-item-container {
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.tab-btn {
+  border-top: none;
+  border-bottom: 2px solid #7b8794;
+  color: #7b8794;
+  font-size: 15px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  padding-bottom: 0px;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.tab-high-light {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
